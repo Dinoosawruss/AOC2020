@@ -11,10 +11,6 @@ Therefore this is valid
 Iterate through each line in the database, pulling out the min, max, letter, and password <br>
 Simple check with password.count()
 
-## Conclusion
-I dont think this is the best solution however it was the one I thought of first so I went with it. The code runs extremely fast even with the size of the data set 
-
-
 ### Part 2
 Under a different password policy, check how many are valid
 
@@ -27,3 +23,6 @@ Only an a at position one therefore it is valid
 #### My approach
 Iterate through each line in the database, pulling out the min, max, letter, and password <br>
 Simple XOR check
+
+## Conclusion
+Once again I dont think this is the best solution however it was the one I thought of first so I went with it. The code runs extremely fast even with the size of the data set 
